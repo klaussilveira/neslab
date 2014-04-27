@@ -6,3 +6,6 @@ movingsprite/movingsprite.nes:
 
 
 build: movingsprite/movingsprite.nes
+
+clean:
+	$(MAKE) -C movingsprite clean
