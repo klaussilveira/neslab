@@ -1,0 +1,1 @@
+https://github.com/gutomaia/pyNES/archive/0.1.x.tar.gz#egg=pyNES-0.0.2
